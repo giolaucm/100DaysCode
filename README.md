@@ -2,6 +2,8 @@
 
 Desafio da: https://github.com/sspacecoding/100DiasSpaceCoders?tab=readme-ov-file
 
+Guia da ordem de estudos: https://techguide.sh/pt-BR/path/full-stack/
+
 Cronograma de estudos
 
 # 7 dias
